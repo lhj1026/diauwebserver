@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ecdf7bf-8163-49b6-915a-207aa3cca784" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/decoder" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/libSKP_SILK_SDK.a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_A2NLSF.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_CNG.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_HP_variable_cutoff_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_LBRR_reset.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_LPC_inv_pred_gain.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_LPC_synthesis_filter.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_LPC_synthesis_order16.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_LP_variable_cutoff.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_LSF_cos_table.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_LTP_analysis_filter_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_LTP_scale_ctrl_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_MA.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NLSF2A.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NLSF2A_stable.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NLSF_MSVQ_decode.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NLSF_MSVQ_encode_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NLSF_VQ_rate_distortion_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NLSF_VQ_sum_error_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NLSF_VQ_weights_laroia.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NLSF_stabilize.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NSQ.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NSQ_del_dec.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_PLC.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_VAD.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_VQ_nearest_neighbor_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_ana_filt_bank_1.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_apply_sine_window.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_array_maxabs.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_autocorr.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_biquad.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_biquad_alt.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_burg_modified.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_bwexpander.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_bwexpander_32.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_code_signs.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_control_audio_bandwidth.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_control_codec_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_corrMatrix_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_create_init_destroy.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_dec_API.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_decode_core.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_decode_frame.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_decode_parameters.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_decode_pitch.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_decode_pulses.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_decoder_set_fs.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_detect_SWB_input.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_div_oabi.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_enc_API.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_encode_frame_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_encode_parameters.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_encode_pulses.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_find_LPC_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_find_LTP_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_find_pitch_lags_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_find_pred_coefs_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_gain_quant.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_init_encoder_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_inner_prod_aligned.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_interpolate.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_k2a.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_k2a_Q16.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_lin2log.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_log2lin.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_noise_shape_analysis_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_pitch_analysis_core.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_pitch_est_tables.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_prefilter_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_process_NLSFs_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_process_gains_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_quant_LTP_gains_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_range_coder.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_regularize_correlations_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_down2.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_down2_3.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_down3.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_AR2.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_ARMA4.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_IIR_FIR.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_copy.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_down4.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_down_FIR.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_up2_HQ.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_up4.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_rom.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_up2.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_residual_energy16_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_residual_energy_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_scale_copy_vector16.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_scale_vector.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_schur.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_schur64.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_shell_coder.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_sigm_Q15.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_solve_LS_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_sort.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_sum_sqr_shift.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_LTP.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_NLSF_CB0_10.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_NLSF_CB0_16.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_NLSF_CB1_10.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_NLSF_CB1_16.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_gain.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_other.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_pitch_lag.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_pulses_per_block.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_sign.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_type_offset.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_warped_autocorrelation_FIX.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/test/Decoder.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/ffmpeg compatible with XP.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/ffmpeg.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/lame.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/screenshots/20160413145612.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/screenshots/20160413145643.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/screenshots/20160413171427.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/screenshots/20160413171521.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/screenshots/20160601170900.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/screenshots/20160601170959.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/screenshots/20160928221726.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/screenshots/20160928221818.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/screenshots/20170528161523.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/screenshots/20170528161558.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/silk2mp3.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/silk_v3_decoder.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/silk_v3_encoder.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/1.pcm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-09-20-13-49-535406.pcm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-09-20-13-49-535406.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-09-20-13-49-535406.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-09-20-22-31-000749.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-09-20_23-39-545535.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-09_20-24-19-707336.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-09_20-58-59-057801.pcm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-09_20-58-59-057801.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-09_21-00-54-702647.pcm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-09_21-00-54-702647.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-09_21-22-07-738126.pcm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-09_21-22-07-738126.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-09_21-22-07-738126.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_18-04-28-522903.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_18-04-28-522903.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_18-04-35-301139.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-11-48-159369.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-11-48-159369.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-15-28-027980.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-15-28-027980.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-16-35-460243.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-16-35-460243.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-17-10-726301.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-18-19-699545.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-21-57-144215.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-21-57-144215.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-22-31-943068.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-22-31-943068.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-23-16-883836.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-23-16-883836.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-29-58-660676.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-29-58-660676.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-33-03-347601.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-33-03-347601.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-34-38-319445.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-39-03-746209.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-39-03-746209.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-40-40-248502.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-40-40-248502.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-41-09-660913.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-41-09-660913.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-41-49-631763.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-42-14-348774.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-42-14-348774.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-42-36-532087.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-42-36-532087.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-43-13-696243.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-43-13-696243.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-46-49-384253.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-46-49-384253.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-48-01-883566.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-48-07-154405.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-48-07-154405.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-48-38-028262.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-49-20-657365.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-49-20-657365.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-50-16-896078.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-50-16-896078.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-50-37-834687.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-50-37-834687.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-51-36-174055.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-51-36-174055.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-54-53-450927.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-54-53-450927.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_22-01-29-568903.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-11_10-24-35-617991.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-11_10-24-35-617991.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-11_10-29-14-586319.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-11_10-29-14-586319.webm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-11_15-16-14-570163.pcm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-11_15-16-14-570163.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-11_15-16-14-570163.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-11_15-16-25-181260.pcm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-11_15-16-25-181260.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-11_15-16-25-181260.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/20171009165424898930.amr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/20171009165424898930.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/20171009174954094393.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/20171009183533685221.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/20171009191455806936.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/20171009201126579888.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/diauWeb.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/phpRuntime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KeywordsAnswer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXBizDataCrypt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apiDecrypt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apiPushVoice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apiSaveOpenID.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apiSignUp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apiUpdateRule.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apiUpdateUserInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apiWriteMsg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/callXunFeiASREngine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diauwxapp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menuCreate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menuDelete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menuGet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysql/basic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ruleJson.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/converter.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/converter_bak.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/converter_beta.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/interface/SKP_Silk_SDK_API.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/interface/SKP_Silk_control.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/interface/SKP_Silk_errors.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/interface/SKP_Silk_typedef.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_A2NLSF.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_A2NLSF_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_AsmHelper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_AsmPreproc.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_CNG.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_HP_variable_cutoff_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_Inlines.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_LBRR_reset.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_LPC_inv_pred_gain.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_LPC_synthesis_filter.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_LPC_synthesis_order16.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_LP_variable_cutoff.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_LSF_cos_table.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_LTP_analysis_filter_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_LTP_scale_ctrl_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_MA.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_MA_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NLSF2A.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NLSF2A_stable.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NLSF_MSVQ_decode.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NLSF_MSVQ_encode_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NLSF_VQ_rate_distortion_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NLSF_VQ_sum_error_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NLSF_VQ_sum_error_FIX_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NLSF_VQ_weights_laroia.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NLSF_stabilize.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NSQ.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_NSQ_del_dec.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_PLC.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_PLC.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_SigProc_FIX.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_VAD.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_VQ_nearest_neighbor_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_allpass_int_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_ana_filt_bank_1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_ana_filt_bank_1_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_apply_sine_window.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_array_maxabs.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_array_maxabs_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_autocorr.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_biquad.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_biquad_alt.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_burg_modified.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_bwexpander.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_bwexpander_32.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_clz_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_code_signs.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_common_pitch_est_defines.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_control_audio_bandwidth.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_control_codec_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_corrMatrix_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_create_init_destroy.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_dec_API.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_decode_core.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_decode_core_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_decode_frame.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_decode_parameters.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_decode_pitch.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_decode_pulses.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_decoder_set_fs.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_define.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_detect_SWB_input.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_div_oabi.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_enc_API.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_encode_frame_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_encode_parameters.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_encode_pulses.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_find_LPC_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_find_LTP_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_find_pitch_lags_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_find_pred_coefs_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_gain_quant.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_init_encoder_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_inner_prod_aligned.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_inner_prod_aligned_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_interpolate.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_k2a.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_k2a_Q16.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_lin2log.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_lin2log_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_log2lin.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_macros.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_macros_arm.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_main.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_main_FIX.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_noise_shape_analysis_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_pitch_analysis_core.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_pitch_est_defines.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_pitch_est_tables.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_prefilter_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_prefilter_FIX_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_process_NLSFs_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_process_gains_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_quant_LTP_gains_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_range_coder.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_regularize_correlations_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_down2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_down2_3.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_down2_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_down3.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_AR2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_AR2_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_ARMA4.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_ARMA4_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_IIR_FIR.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_IIR_FIR_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_copy.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_down4.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_down_FIR.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_down_FIR_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_up2_HQ.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_up2_HQ_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_private_up4.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_rom.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_rom.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_rom_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_structs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_up2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_resampler_up2_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_residual_energy16_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_residual_energy_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_scale_copy_vector16.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_scale_vector.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_schur.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_schur64.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_schur64_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_setup_complexity.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_shell_coder.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_sigm_Q15.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_sigm_Q15_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_solve_LS_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_sort.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_structs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_structs_FIX.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_sum_sqr_shift.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_sum_sqr_shift_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_LTP.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_NLSF_CB0_10.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_NLSF_CB0_10.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_NLSF_CB0_16.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_NLSF_CB0_16.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_NLSF_CB1_10.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_NLSF_CB1_10.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_NLSF_CB1_16.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_NLSF_CB1_16.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_gain.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_other.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_pitch_lag.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_pulses_per_block.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_sign.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tables_type_offset.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_tuning_parameters.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_warped_autocorrelation_FIX.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/src/SKP_Silk_warped_autocorrelation_FIX_arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/test/Decoder.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/test/Encoder.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/silk/test/signalCompare.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/silk-v3-decoder-master/windows/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_18-04-28-522903.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_18-04-35-301139.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-11-48-159369.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-15-28-027980.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-16-35-460243.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-17-10-726301.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-18-19-699545.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-21-57-144215.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-22-31-943068.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-23-16-883836.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-29-58-660676.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-33-03-347601.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-34-38-319445.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-39-03-746209.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-40-40-248502.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-41-09-660913.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-41-49-631763.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-42-14-348774.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-42-36-532087.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-43-13-696243.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-46-49-384253.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-48-01-883566.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-48-07-154405.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-48-38-028262.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-49-20-657365.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-50-16-896078.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-50-37-834687.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-51-36-174055.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_21-54-53-450927.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-10_22-01-29-568903.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-11_10-24-35-617991.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/ojc3y0OvSUWWKZYpcBxuro8JM8-0/2017-10-11_10-29-14-586319.silk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wx_S_Session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wx_accessToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wx_config.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="api.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="864">
+              <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apiSignUp.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiSignUp.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2898">
+              <caret line="161" column="42" lean-forward="false" selection-start-line="161" selection-start-column="42" selection-end-line="161" selection-end-column="42" />
+              <folding>
+                <marker date="1507659277465" expanded="true" signature="1803:2414" ph="SELECT id FR... users" />
+                <marker date="1507659277465" expanded="true" signature="3952:4143" ph="INSERT INTO users... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apiSaveOpenID.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiSaveOpenID.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apiPushVoice.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiPushVoice.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2754">
+              <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WXBizDataCrypt.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WXBizDataCrypt.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apiDecrypt.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiDecrypt.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="26" column="47" lean-forward="false" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="callXunFeiASREngine.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/callXunFeiASREngine.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apiUpdateRule.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiUpdateRule.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>headimg</find>
+      <find>city</find>
+      <find>var_dump</find>
+      <find>int</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>country</replace>
+      <replace>province</replace>
+      <replace>city</replace>
+      <replace>language</replace>
+      <replace>$</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dbconnection.php" />
+        <option value="$PROJECT_DIR$/sql.func.php" />
+        <option value="$PROJECT_DIR$/record_message.func.inc.php" />
+        <option value="$PROJECT_DIR$/menuGet.php" />
+        <option value="$PROJECT_DIR$/menuDelete.php" />
+        <option value="$PROJECT_DIR$/menuCreate.php" />
+        <option value="$PROJECT_DIR$/diauwxapp.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/backup.php" />
+        <option value="$PROJECT_DIR$/dbconnect.php" />
+        <option value="$PROJECT_DIR$/userSignUp.php" />
+        <option value="$PROJECT_DIR$/wx_s_session.php" />
+        <option value="$PROJECT_DIR$/apiSaveOpenId.php" />
+        <option value="$PROJECT_DIR$/writeMsg.php" />
+        <option value="$PROJECT_DIR$/apiSignUp.php" />
+        <option value="$PROJECT_DIR$/apiUpdateUserInfo.php" />
+        <option value="$PROJECT_DIR$/wx_accessToken.php" />
+        <option value="$PROJECT_DIR$/apiUpdateRuleDatabase.php" />
+        <option value="$PROJECT_DIR$/apiUpdateRule.php" />
+        <option value="$PROJECT_DIR$/KeywordsAnswer.php" />
+        <option value="$PROJECT_DIR$/apiWriteMsg.php" />
+        <option value="$PROJECT_DIR$/pkcs7Encoder.php" />
+        <option value="$PROJECT_DIR$/Prpcrypt.php" />
+        <option value="$PROJECT_DIR$/PKCS7Encoder.php" />
+        <option value="$PROJECT_DIR$/wx_S_Session.php" />
+        <option value="$PROJECT_DIR$/ErrorCode.php" />
+        <option value="$PROJECT_DIR$/getRunStep.php" />
+        <option value="$PROJECT_DIR$/get.php" />
+        <option value="$PROJECT_DIR$/apiSaveOpenID.php" />
+        <option value="$PROJECT_DIR$/wx_config.php" />
+        <option value="$PROJECT_DIR$/apiPushVoice.php" />
+        <option value="$PROJECT_DIR$/api.php" />
+        <option value="$PROJECT_DIR$/WXBizDataCrypt.php" />
+        <option value="$PROJECT_DIR$/apiDecrypt.php" />
+        <option value="$PROJECT_DIR$/xunfei/LinuxASR/include/msp_errors.h" />
+        <option value="$PROJECT_DIR$/xunFeiASR.php" />
+        <option value="$PROJECT_DIR$/callXunFeiASREngine.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" break_at_first_line="true" zd_debug_port="8000" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost/" id="3d45b6de-c160-4b5e-82f0-fda17b13ca52" name="diauweb" use_path_mappings="true" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7">
+    <include_path>
+      <path value="/usr/bin" />
+      <path value="/etc/php/7.0/apache2" />
+      <path value="/etc/php/7.0/cgi" />
+      <path value="" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="382" />
+    <option name="y" value="100" />
+    <option name="width" value="1264" />
+    <option name="height" value="565" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="diauweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diauweb" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="diauweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/etc/php/7.0/apache2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Built-in Web Server.test.php">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/diauwxapp.php" />
+    <configuration name="diauWeb" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" editBeforeRun="true" document_root="$PROJECT_DIR$/../" port="9080">
+      <CommandLine parameters="/usr/bin/php" />
+    </configuration>
+    <configuration name="test.php" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" editBeforeRun="true" document_root="$PROJECT_DIR$/../" host="192.168.0.17" port="9080">
+      <CommandLine parameters="/usr/bin/php" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="PHP Built-in Web Server.diauWeb" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Built-in Web Server.test.php" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ecdf7bf-8163-49b6-915a-207aa3cca784" name="Default" comment="" />
+      <created>1505710934703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505710934703</updated>
+      <workItem from="1505710939593" duration="3879000" />
+      <workItem from="1505793036977" duration="6831000" />
+      <workItem from="1505932879539" duration="1332000" />
+      <workItem from="1506015170751" duration="1599000" />
+      <workItem from="1506017061881" duration="6014000" />
+      <workItem from="1506038863218" duration="5999000" />
+      <workItem from="1506046137414" duration="6240000" />
+      <workItem from="1506052441103" duration="10481000" />
+      <workItem from="1506281030215" duration="37202000" />
+      <workItem from="1506528076466" duration="54992000" />
+      <workItem from="1507145002389" duration="19296000" />
+      <workItem from="1507172511106" duration="28572000" />
+      <workItem from="1507414811389" duration="18657000" />
+      <workItem from="1507585093977" duration="13547000" />
+      <workItem from="1507659329374" duration="8509000" />
+      <workItem from="1507737717607" duration="2521000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="225671000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="382" y="100" width="1537" height="807" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13094462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5074918" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.49250814" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32805756" sideWeight="0.49771988" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/record_message.func.inc.php" />
+    <entry file="file://$PROJECT_DIR$/sql.func.php" />
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2304">
+          <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql.func.php" />
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/record_message.func.inc.php" />
+    <entry file="file://$PROJECT_DIR$/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2304">
+          <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql.func.php" />
+    <entry file="file://$PROJECT_DIR$/record_message.func.inc.php" />
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbconnection.php" />
+    <entry file="file://$PROJECT_DIR$/test1.php" />
+    <entry file="file://$PROJECT_DIR$/diauwxapp1.php" />
+    <entry file="file://$PROJECT_DIR$/menuDelete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="46" lean-forward="false" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menuGet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/sql.func.php" />
+    <entry file="file://$PROJECT_DIR$/configure.php" />
+    <entry file="file://$PROJECT_DIR$/record_message.func.inc.php" />
+    <entry file="file://$PROJECT_DIR$/api_backup.php" />
+    <entry file="file://$PROJECT_DIR$/backup.php" />
+    <entry file="file://$PROJECT_DIR$/menuCreate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbconnect.php" />
+    <entry file="file://$PROJECT_DIR$/pkcs7Encoder.php" />
+    <entry file="file://$PROJECT_DIR$/Prpcrypt.php" />
+    <entry file="file://$PROJECT_DIR$/PKCS7Encoder.php" />
+    <entry file="file://$PROJECT_DIR$/ErrorCode.php" />
+    <entry file="file://$PROJECT_DIR$/diauwxapp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="90" column="4" lean-forward="false" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
+          <folding>
+            <marker date="1506271446592" expanded="true" signature="1865:2215" ph="..." />
+            <marker date="1506271446592" expanded="true" signature="3747:4100" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get.php" />
+    <entry file="file://$PROJECT_DIR$/getRunStep.php" />
+    <entry file="file://$PROJECT_DIR$/wx_S_Session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="55" column="19" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readStepInfo.php" />
+    <entry file="file://$PROJECT_DIR$/wx_accessToken.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KeywordsAnswer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiWriteMsg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="98" column="21" lean-forward="false" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="21" />
+          <folding>
+            <marker date="1507658057345" expanded="true" signature="572:676" ph="insert into userMsg... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiUpdateUserInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="46" lean-forward="false" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <marker date="1507658057285" expanded="true" signature="870:921" ph="update users... " />
+            <marker date="1507658057285" expanded="true" signature="876:921" ph="SELECT id, o... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiSignUp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2898">
+          <caret line="161" column="42" lean-forward="false" selection-start-line="161" selection-start-column="42" selection-end-line="161" selection-end-column="42" />
+          <folding>
+            <marker date="1507659277465" expanded="true" signature="1803:2414" ph="SELECT id FR... users" />
+            <marker date="1507659277465" expanded="true" signature="3952:4143" ph="INSERT INTO users... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiSaveOpenID.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiPushVoice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiUpdateRule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xunfei/LinuxASR/include/msp_errors.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xunfei/LinuxASR/include/msp_cmn.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WXBizDataCrypt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xunFeiASR.php" />
+    <entry file="file://$PROJECT_DIR$/apiDecrypt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="26" column="47" lean-forward="false" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callXunFeiASREngine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
